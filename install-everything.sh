@@ -7,7 +7,7 @@ sudo apt-get -y autoremove
 # Primary
 sudo apt-get install -y xbacklight
 sudo apt-get install -y xclip
-
+sudo apt-get install -y git svn
 sudo apt-get install -y ubuntu-restricted-extras
 sudo apt-get install -y unity tweak tool
 sudo apt-get install -y default-jre default-jdk oracle-java8-installer
@@ -16,7 +16,6 @@ sudo apt-get install -y default-jre default-jdk oracle-java8-installer
 sudo apt-get install -y python-pip
 sudo apt-get install -y python-psycopg2
 sudo apt-get install -y python-igraph
-
 sudo apt-get install -y spyder spyder3
 sudo pip install bs4
 
